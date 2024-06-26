@@ -1,18 +1,9 @@
-## Getting Started
+## Desafio do bootcamp JAVA da dio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste primeiro desafio é proposto o desenvolvimento de um programa capaz de solicitar dados do usuário e imprimí-los em uma mensagem final.
 
-## Folder Structure
+## Estrutura
 
-The workspace contains two folders by default, where:
+É trabalhado com quatro variáveis onde a biblioteca de scanner é aplicada para a leitura e armazenamento de informações obtidas pelo terminal. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
