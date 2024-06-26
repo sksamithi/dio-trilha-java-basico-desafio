@@ -25,6 +25,7 @@ public class ContaTerminal {
         
         System.out.println("Caro usuário, constatamos que sua conta não faz parte do escopo de clientes do banco.");
         System.out.println("Por favor, digite o seu nome completo para prosseguir com o procedimento de criar uma conta: ");
+        //A linha abaixo serve para garantir que qualquer linha residual seja limpa.
         scanner.nextLine();
         String nomeCliente = scanner.nextLine();
 
